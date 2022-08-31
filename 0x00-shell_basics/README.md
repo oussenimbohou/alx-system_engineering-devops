@@ -5,3 +5,11 @@
 4.Hidden files:Display current directory contents, including hidden files (starting with .). Use the long format.
 5.I love numbers:Display current directory contents having Long format;with user and group IDs displayed numerically;And hidden files (starting with .)
 6-Welcome: Create a script that creates a directory named my_first_directory in the /tmp/ directory.
+7.Betty in my first directory
+8.Bye bye Betty
+9.Bye bye My first directory
+10.Back to the future
+11.Lists
+12.File type
+13.We are symbols and inhabit symbols
+14.Copy HTML files
